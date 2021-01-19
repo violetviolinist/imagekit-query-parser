@@ -1,0 +1,19 @@
+{
+  "name": "imagekit-query-parser",
+  "version": "1.0.0",
+  "description": "Parses ImageKit search queries and translates to MongoDB queries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/violetviolinist/imagekit-query-parser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/violetviolinist/imagekit-query-parser/issues"
+  },
+  "homepage": "https://github.com/violetviolinist/imagekit-query-parser#readme"
+}
